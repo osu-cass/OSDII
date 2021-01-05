@@ -1,6 +1,8 @@
 OSDII
 =====
 
+IMPORTANT: This repo is no longer under development and has been archived.
+
 This repository was created following discussions that began at the Google
 Summer of Code 2014 Reunion.
 
